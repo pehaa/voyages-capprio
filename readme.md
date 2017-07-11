@@ -13,14 +13,14 @@
 6. Changer l'architecture des fichiers
 
 project
-   assets
-      css
-         style.css
-      images
-         image1.jpg
-         image2.jpg
-         ...
-destinatons.html
-index.html
+&nbsp;&nbsp;&nbsp;&nbsp;assets
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style.css
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;images
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;image1.jpg
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;image2.jpg
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+&nbsp;&nbsp;&nbsp;&nbsp;destinatons.html
+&nbsp;&nbsp;&nbsp;&nbsp;index.html
 
 4. Accélerer l'affichage des images - téléchargez des photos dans le dossier image, changer les attributs src pour chaque image
